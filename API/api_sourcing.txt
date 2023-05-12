@@ -1,0 +1,9 @@
+    1  echo $SHELL
+    3  ls -la ~/
+    4  mkdir API
+    5  cd API
+    6  touch apiKeys.sh
+    7  pwd
+    8  vi ~/.bashrc
+    9  source ~/.bashrc
+   10  history | less > api_sourcing.txt
