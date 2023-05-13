@@ -1,0 +1,7 @@
+    1  find -name /.bashrc
+    2  find / -name /.bashrc
+    3  time find / -name API
+    4  time find / -name variables_with_shell/
+    5  timelocate  variables_with_shell/
+    6  time locate  variables_with_shell/
+    7  history >search.Txt
